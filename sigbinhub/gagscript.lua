@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/sigbinhub/sigbin-pet-spawner/refs/heads/main/script.lua"))()
